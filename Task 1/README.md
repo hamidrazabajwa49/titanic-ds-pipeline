@@ -51,13 +51,14 @@ Task 1/
 ├── notebook/
 │   └── Task1_Titanic_Cleaning_EDA.ipynb   # executed, all outputs present
 ├── data/
-│   ├── titanic_raw.csv
-│   └── titanic_cleaned.csv                # cleaned output (no separate output/ folder at this stage)
+│   ├── titanic_raw.csv              # cleaned output (no separate output/ folder at this stage)
 ├── images/
 │   ├── missing_values.png
 │   ├── outliers_boxplot.png
 │   ├── distributions.png
 │   ├── survival_by_class_sex.png
 │   └── correlation_heatmap.png
+├── output/
+│   ├── titanic_cleaned.csv 
 └── README.md
 ```
